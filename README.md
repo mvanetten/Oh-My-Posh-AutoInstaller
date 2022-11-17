@@ -14,3 +14,6 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; Invoke-Expression ((New-Object
 3) Close and Open the PowerShell Window
 4) Right Click on Titlebar and select Properties.
 5) Go to Tab -> Fonts and select Cousine NFM
+
+![My Image](SelectFont.png)
+
