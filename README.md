@@ -1,6 +1,6 @@
 # Oh-My-Posh-AutoInstaller
 
-![My Image](oh-my-posh.png)
+![My Image](Oh-My-Posh.png)
 
 
 
