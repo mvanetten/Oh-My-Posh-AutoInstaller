@@ -1,4 +1,11 @@
 # Oh-My-Posh-AutoInstaller
+
+![My Image](oh-my-posh.png)
+
+
+
+# How to install?
+
 1) Run PowerShell 7.x as Administrator
 2) Run the following command:
 
