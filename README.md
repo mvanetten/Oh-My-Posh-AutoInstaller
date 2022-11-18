@@ -1,5 +1,7 @@
 # Oh-My-Posh-AutoInstaller
 
+Oh My Posh enables you to use the full color set of your terminal by using colors to define and render the prompt.
+
 ![My Image](Oh-My-Posh.png)
 
 
