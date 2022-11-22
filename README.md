@@ -6,7 +6,7 @@ Oh My Posh enables you to use the full color set of your terminal by using color
 
 
 
-# How to install?
+# How to install? (Windows 10)
 
 1) Run [PowerShell 7.x](https://learn.microsoft.com/nl-nl/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.3#msi "Microsoft Site") as Administrator (! important step !)
 2) Run the following command:
